@@ -1,0 +1,11 @@
+[versions]
+junit = "5.13.4"
+
+[libraries]
+junitBom = { module = "org.junit:junit-bom", version.ref = "junit" }
+junitJupiter = { module = "org.junit.jupiter:junit-jupiter", version.ref = "junit" }
+
+[bundles]
+
+[plugins]
+java = { id = "java" }
