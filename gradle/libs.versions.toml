@@ -1,7 +1,9 @@
 [versions]
+springContext = "6.2.11"
 junit = "5.13.4"
 
 [libraries]
+springContext = { module = "org.springframework:spring-context", version.ref = "springContext" }
 junitBom = { module = "org.junit:junit-bom", version.ref = "junit" }
 junitJupiter = { module = "org.junit.jupiter:junit-jupiter", version.ref = "junit" }
 
