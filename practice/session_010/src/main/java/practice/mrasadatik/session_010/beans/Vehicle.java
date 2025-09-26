@@ -1,4 +1,4 @@
-package practice.mrasadatik.session_009.beans;
+package practice.mrasadatik.session_010.beans;
 
 import org.springframework.stereotype.Component;
 
