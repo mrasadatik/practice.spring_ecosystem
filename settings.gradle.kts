@@ -32,3 +32,5 @@ include("practice:session_015")
 findProject(":practice:session_015")?.name = "session_015"
 include("practice:session_016")
 findProject(":practice:session_016")?.name = "session_016"
+include("practice:session_017")
+findProject(":practice:session_017")?.name = "session_017"
